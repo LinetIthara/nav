@@ -15,5 +15,8 @@
   background: #88f0f0;
   color: #345876;
 }
+.wrapper .content p {
+  font-family: helvetica;
+}
 
 /*# sourceMappingURL=scss.css.map */

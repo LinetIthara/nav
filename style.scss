@@ -20,6 +20,10 @@ $jackcolor: #88f0f0;
     .content{
         background: $jackcolor;
         color: $linetcolor;
+
+        p{
+            font-family: helvetica;
+        }
     }
 }
 
