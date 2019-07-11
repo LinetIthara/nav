@@ -1,0 +1,19 @@
+.wrapper {
+  background-color: #345876;
+  color: #88f0f0;
+}
+.wrapper nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.wrapper nav h1 {
+  font-size: 3em;
+  letter-spacing: 1px;
+}
+.wrapper .content {
+  background: #88f0f0;
+  color: #345876;
+}
+
+/*# sourceMappingURL=sass.css.map */

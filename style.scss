@@ -1,0 +1,44 @@
+$linetcolor: #345876;
+$jackcolor: #88f0f0;
+
+
+.wrapper{
+    background: $linetcolor;
+    color: $jackcolor;
+
+    nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        h1{
+            font-size: 3em;
+            letter-spacing: 1px;
+        }
+    }
+
+    .content{
+        background: $jackcolor;
+        color: $linetcolor;
+    }
+}
+
+// .wrapper{
+//     background-color: $linetcolor
+//     color: $jackcolor
+
+//     nav{
+//         display: flex;
+//         align-items: center
+//         justify-content: space-around
+
+//         h1{
+//             font-size: 3em
+//             letter-spacing: 1px
+//         }
+//     }
+
+//     .content
+//         background: $jackcolor
+//         color: $linetcolor
+// }
